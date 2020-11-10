@@ -1,4 +1,4 @@
-# make-ecommerce-in-laravel-6-7
+# Make E-commerce Website in Laravel 6 / Laravel 7 | <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCExO2i-tLU1NyVZD6zOJQlw/join">Download</a>
 Follow below link to make E-commerce Website in Laravel 6.0 / Laravel 7.0
 
 https://www.youtube.com/playlist?list=PLLUtELdNs2ZaHaFmydqjcQ-YyeQ19Cd6u
